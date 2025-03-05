@@ -102,7 +102,8 @@ DocProject/Help/html
 
 # Click-Once directory
 publish/
-
+bin/
+obj/
 # Publish Web Output
 *.Publish.xml
 
